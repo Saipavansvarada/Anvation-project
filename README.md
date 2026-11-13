@@ -27,6 +27,8 @@ The system is split into **3 decoupled services** running on independent ports:
 
 ---
 
+## Deployed link - https://anvation-project-l8hmp5tmdt62xzhvdm3edv.streamlit.app/
+
 ## 📂 Complete Directory Structure
 
 ```text
@@ -90,5 +92,4 @@ Open 3 separate terminal windows and execute the commands below in order:
 
 ##Project Team: Team BYTEFORCE
 
-Deployed link - https://anvation-project-l8hmp5tmdt62xzhvdm3edv.streamlit.app/
   
