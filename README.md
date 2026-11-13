@@ -89,4 +89,6 @@ Open 3 separate terminal windows and execute the commands below in order:
   3.Machine Learning & Analytics: Scikit-Learn (Isolation Forest), Pandas, NumPy
 
 ##Project Team: Team BYTEFORCE
+
+Deployed link - https://anvation-project-l8hmp5tmdt62xzhvdm3edv.streamlit.app/
   
